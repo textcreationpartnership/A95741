@@ -1,0 +1,317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Upon the coalpits about Newcastle upon Tine.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95741</idno>
+            <idno type="STC">Wing U108</idno>
+            <idno type="STC">Thomason E221_2</idno>
+            <idno type="STC">ESTC R9954</idno>
+            <idno type="EEBO-CITATION">99873638</idno>
+            <idno type="PROQUEST">99873638</idno>
+            <idno type="VID">157886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95741)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157886)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 38:E221[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Upon the coalpits about Newcastle upon Tine.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Oct: 31 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coal --  England --  Newcastle upon Tyne (Tyne and Wear) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:157886:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <head>Upon the COALPITS about NEWCASTLE upon <hi>Tine.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">E</seg>NGLAND</hi>'s a perfect World; has <hi>Indies</hi> too.</l>
+               <l>Correct your Maps; <hi>Newcaſtle</hi> is <hi>Peru.</hi>
+               </l>
+               <l>Let th'haughty <hi>Spaniard</hi> triumph, 'till 'tis told</l>
+               <l>Our ſooty Mineralls purify his Gold.</l>
+               <l>This will ſublime and hatch th'abortive Oare</l>
+               <l>When the Sun tires, and Starres can do no more.</l>
+               <l>No Mines are current unrefin'd and groſſe:</l>
+               <l>Coals make the Sterling, Nature but the Droſſe.</l>
+               <l>For Metalls (<hi>Bacchus</hi>-like) two Births approve,</l>
+               <l>Heav'n's heat's the <hi>Semele,</hi> and ours the <hi>Jove.</hi>
+               </l>
+               <l>Thus Art doth poliſh Nature; 'tis her Trade:</l>
+               <l>So every Madame has her Chamber-maid.</l>
+            </lg>
+            <lg>
+               <l>Who'd dote on Gold? a thing ſo ſtrange and odde,</l>
+               <l>'Tis moſt contemptible when made a God.</l>
+               <l>All ſinnes and miſchiefs thence have riſe, and ſwell.</l>
+               <l>One <hi>Indies</hi> more would make another Hell.</l>
+               <l>Our Mines are innocent, nor will the North</l>
+               <l>Tempt poor Mortality with too much worth.</l>
+               <l>They'r not too precious; rich enough to fire</l>
+               <l>A Lover, yet make none Idolater.</l>
+               <l>The moderate value of our guiltleſſe Oare</l>
+               <l>Makes no man Atheiſt, nor no woman Whore.</l>
+            </lg>
+            <lg>
+               <l>Yet why ſhould hallow'd <hi>Veſta</hi>'s glowing ſhrine</l>
+               <l>Deſerve more honour then a flaming Mine?</l>
+               <l>Theſe pregnant Wombs of Heat would fitter be</l>
+               <l>Then a few Embers, for a Deity.</l>
+               <l>Had he our Pits, the <hi>Perſian</hi> would admire</l>
+               <l>No Sun, but warm's Devotion at our Fire.</l>
+               <l>Hee'd leave the trotting Whipſter, and prefer</l>
+               <l>This profound <hi>Vulcan</hi> 'bove that Wagoner.</l>
+               <l>For, wants he Heat or Light? would he have ſtore</l>
+               <l>Of both? 'tis here: and what can Suns give more?</l>
+               <l>Nay, what's that Sun, but (in a different name)</l>
+               <l>A Coal-pit Rampant, and a Mine on Flame?</l>
+               <l>Then let this Truth reciprocally run,</l>
+               <l>"The Sun's Heav'n's Coalery, and Coals our Sun.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:157886:2"/>
+               <!-- PDF PAGE 26 -->
+               <l>A Sun that ſcorches not, lock'd up i'th' Deep;</l>
+               <l>The Bandog's chain'd, the Lion is aſleep.</l>
+               <l>That tyrant Fire, which uncontroll'd doth rage,</l>
+               <l>Here's calm and huſh'd, like Bajazet i'th' Cage.</l>
+               <l>For in each Coal-pit there doth (couchant) dwell</l>
+               <l>A muzzled <hi>Aetna,</hi> and an innocent Hell.</l>
+            </lg>
+            <lg>
+               <l>Kindle the Cloud, you'l Lightning then deſcry,</l>
+               <l>Then will a Day break from the gloomy sky:</l>
+               <l>Then you'l unbutton though <hi>December</hi> blow,</l>
+               <l>And ſweat i'th' midſt of Iceicles and Snow:</l>
+               <l>'Tis Dog-dayes then at Chriſtmaſſe: thus is all</l>
+               <l>The Year made <hi>June</hi> and Aequinoctiall.</l>
+            </lg>
+            <lg>
+               <l>If Heat offend, our Pits afford us Shade.</l>
+               <l>Thus Summer's Winter, Winter Summer made.</l>
+               <l>What need we Baths? what need we Bowre or Grove?</l>
+               <l>A Coal-pit's both a Venti-duct and Stove.</l>
+            </lg>
+            <lg>
+               <l>Such Pits and Caves were Palaces of old:</l>
+               <l>Poor Innes (God wot) yet in an Age of Gold.</l>
+               <l>And (what would now be thought a ſtrange Deſign)</l>
+               <l>To build a Houſe, was then to Undermine.</l>
+               <l>People liv'd under ground: and happy dwellers,</l>
+               <l>Whoſe joviall Habitations were all Cellars!</l>
+               <l>Thoſe Primitive times were innocent, for then</l>
+               <l>Man, who turn'd after Fox, but made his Den.</l>
+            </lg>
+            <lg>
+               <l>But ſee a Fleet of Rivals trim and fine,</l>
+               <l>To court the rich <hi>Infanta</hi> of our Mine!</l>
+               <l>Hundreds of grim <hi>Leanders</hi> dare confront,</l>
+               <l>For this lov'd <hi>Hero,</hi> the lowd <hi>Hellespont.</hi>
+               </l>
+               <l>'Tis an <hi>Armado</hi> Royall doth ingage</l>
+               <l>For ſome new <hi>Helen</hi> with this Equipage:</l>
+               <l>Prepar'd too (ſhould we their Addreſſes barre)</l>
+               <l>To force their Miſtreſſe with a ten-yeare's warre:</l>
+               <l>But that our Mine's a common Good, a Joy</l>
+               <l>Not made to ruine, but enrich our <hi>Troy.</hi>
+               </l>
+               <l>Thus went thoſe gallant Heroes of old <hi>Greece,</hi>
+               </l>
+               <l>(The <hi>Argonauts</hi>) in queſt o'th' Golden Fleece.</l>
+               <l>But O, theſe bring it with them, and conſpire</l>
+               <l>To pawn that Idole for our Smoak and Fire.</l>
+               <l>Silver's but Ballaſt, this they bring aſhoar,</l>
+               <l>That they may treaſure up our better Oare.</l>
+               <pb n="3" facs="tcp:157886:2"/>
+               <!-- PDF PAGE 26 -->
+               <l>For this they venture Rocks and Stormes, defy</l>
+               <l>All the extremities of Sea and Sky.</l>
+               <l>For the glad purchaſe of this precious Mould</l>
+               <l>Cowards dare Pirates, Miſers part with Gold.</l>
+               <l>Hence 'tis, that when the doubtfull Ship ſets forth,</l>
+               <l>The knowing Needle ſtill directs it North:</l>
+               <l>And Nature's ſecret wonder (to atteſt</l>
+               <l>Our <hi>Indies</hi> worth) diſcards both Eaſt and Weſt.</l>
+            </lg>
+            <lg>
+               <l>For 'tis not only Fire commends this Spring;</l>
+               <l>A Coal-pit is a Mine of every thing.</l>
+               <l>We ſink a <hi>Jack-of-all-trades</hi> Shop, and ſound</l>
+               <l>An inverſ'd Burſe, an Exchange under ground.</l>
+               <l>This <hi>Prot<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us</hi>-earth converts to what you'd ha'ce;</l>
+               <l>Now you may weav't to Silk, then coyn't to Plate:</l>
+               <l>Or (what's a Metamorphoſis more dear)</l>
+               <l>Diſſolve it, and 'twill melt to <hi>London</hi> Beer.</l>
+               <l>For whatſoe're that gawdy City boaſts,</l>
+               <l>Each Moneth derives to theſe attractive Coaſts.</l>
+               <l>We ſhall exhauſt their Chamber, and devour</l>
+               <l>The Treaſures of <hi>Guild-hall,</hi> the <hi>Mint,</hi> the <hi>Tower.</hi>
+               </l>
+               <l>Our <hi>Staiths</hi> their morgag'd Streets will ſoon divide;</l>
+               <l>
+                  <hi>Blathon</hi> owe <hi>Corn-hill, Stella</hi> ſhare <hi>Cheap-ſide.</hi>
+               </l>
+               <l>Thus will our Coal-pit's Charity and Pity</l>
+               <l>At diſtance under-Mine and Fire the City.</l>
+               <l>Should we exact, they'd pawn their Wives, and treat</l>
+               <l>To ſwap thoſe Coolers for our ſoveraign Heat.</l>
+               <l>'Bove Kiſſes and Embraces Fire controuls:</l>
+               <l>No <hi>Venus</hi> heightens like a Peck of Coales.</l>
+               <l>
+                  <hi>Medaea</hi> was the Drudge of ſome old Sire,</l>
+               <l>And <hi>Aeſon</hi>'s bath a luſty Sea-coal Fire.</l>
+               <l>Chimneys are old men's Miſtreſſes, there innes</l>
+               <l>A modern Dalliance with their meazled Shinnes.</l>
+            </lg>
+            <lg>
+               <l>To all Defects the Coal-heap brings a Cure;</l>
+               <l>Gives Life to Age, and Raiment to the Poor.</l>
+               <l>Pride firſt wore Cloaths; Nature diſdaines Attire:</l>
+               <l>She made us Naked 'cauſe ſhe gave us Fire.</l>
+               <l>Full Wharfs are Wardrobes; and the Taylour's charm</l>
+               <l>Belongs to th' Collier, He muſt keep us warm.</l>
+            </lg>
+            <lg>
+               <l>The quilted Alderman with all's Aray,</l>
+               <l>Finds but cold comfort on a Froſty day.</l>
+               <l>
+                  <pb n="4" facs="tcp:157886:3"/>
+                  <!-- PDF PAGE 27 -->
+Girt, wrapp'd and muffled, yet with all that ſtirr,</l>
+               <l>Scarce warm when ſmother'd in his drouzy Furr.</l>
+               <l>Not proof againſt keen Winter's Batteryes,</l>
+               <l>Should he himſelf wear all's own Liveryes<g ref="char:punc">▪</g>
+               </l>
+               <l>But Chil-blains under Silver Spurrs bewailes,</l>
+               <l>And in embroider'd Buck-ſkins blowes his Nailes.</l>
+            </lg>
+            <lg>
+               <l>Rich Meadowes and full Cropps are elſewhere found;</l>
+               <l>We can reap Harveſt from our Barren ground.</l>
+               <l>The bald, parch'd Hills that circumſcribe our <hi>Tine,</hi>
+               </l>
+               <l>Are no leſſe fruitfull in their hungry Mine.</l>
+               <l>Their unfledg'd tops ſo well content our Palats,</l>
+               <l>We envy none their Noſegaies and their Sallads.</l>
+               <l>A gay, rank Soil (like a young Gallant) growes,</l>
+               <l>And ſpends it ſelf, that it may wear fine Cloaths.</l>
+               <l>Whilſt all its worth is to its back confin'd;</l>
+               <l>Ours weares plain Out-ſides, but is richly Lin'd.</l>
+               <l>Winter's above, 'tis Summer underneath;</l>
+               <l>A truſty <hi>Morglay</hi> in a Ruſty Sheath.</l>
+               <l>As precious Sables ſometimes interlace</l>
+               <l>A wretched Searge, or Grogram Caſſock-caſe.</l>
+               <l>Rocks own no Spring, are pregnant with no Showers;</l>
+               <l>Cryſtall and Gemms grow there in ſtead of Flowers:</l>
+               <l>In ſtead of Roſes, Beds of Rubies ſweet;</l>
+               <l>And Emeralds recompenſe the Violet.</l>
+               <l>Dame Nature, not (like other Madames) weares</l>
+               <l>(Where ſhe is bare) Pearls on her Breaſt or Eares.</l>
+               <l>What though our Fields preſent a Naked ſight?</l>
+               <l>A Paradiſe ſhould be an <hi>Adamite.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Northern Lad his Bonny Laſſe throwes down,</l>
+               <l>And gives her a Black Bagge for a Green Gown.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
